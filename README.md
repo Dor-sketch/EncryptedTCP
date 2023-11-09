@@ -10,6 +10,8 @@ May this work serve as a modest tribute to their memory, their resilience, and t
 
 ---
 
+![DALL·E 2023-11-09 10 23 22 - A dynamic and tech-oriented cover photo for a GitHub project  The image should illustrate an advanced communication ecosystem with visual elemen](https://github.com/Dor-sketch/EncryptedTCP/assets/138825033/bcf5f5c9-5440-4abc-9445-52d94ca2665b)
+
 
 ## 📑 Table of Contents
 
