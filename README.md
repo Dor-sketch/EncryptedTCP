@@ -1,6 +1,6 @@
 # 📡 Encrypted Communication System
 
-## Created By Dor Pasca | October 26, 2023
+## Created By Dor Pascal | October 26, 2023
 
 This project was conducted before the devastating and murderous attack that occurred on October 7th. Since that day, Israel has been in a state of war, facing unprecedented challenges on multiple fronts. These are indeed dark and trying times for the nation and its people.
 
