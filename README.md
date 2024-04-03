@@ -769,7 +769,7 @@ This project is not open to contributions at this time. However, if you have any
 
 ## 📜 License
 
-The project is licensed under a custom License. See the [LICENSE](./LICENSE) file for more details.
+The project is licensed under a custom License. See the [LICENSE](./LICENSE.md) file for more details.
 
 ## 👏 Acknowledgments
 
